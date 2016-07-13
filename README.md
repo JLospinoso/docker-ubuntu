@@ -1,4 +1,4 @@
-[![Circle CI](https://circleci.com/gh/jalospinoso/docker-ubuntu.svg?style=svg)](https://circleci.com/gh/jalospinoso/docker-ubuntu) [![Docker Repository on Quay.io](https://quay.io/repository/jalospinoso/ubuntu/status "Docker Repository on Quay.io")](https://quay.io/repository/jalospinoso/ubuntu)
+[![Circle CI](https://circleci.com/gh/jlospinoso/docker-ubuntu.svg?style=svg)](https://circleci.com/gh/jlospinoso/docker-ubuntu) [![Docker Repository on Quay.io](https://quay.io/repository/jlospinoso/ubuntu/status "Docker Repository on Quay.io")](https://quay.io/repository/jlospinoso/ubuntu)
 
 # About
 
