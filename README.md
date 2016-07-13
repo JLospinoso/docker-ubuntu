@@ -1,4 +1,4 @@
-[![Circle CI](https://circleci.com/gh/sameersbn/docker-ubuntu.svg?style=svg)](https://circleci.com/gh/sameersbn/docker-ubuntu) [![Docker Repository on Quay.io](https://quay.io/repository/sameersbn/ubuntu/status "Docker Repository on Quay.io")](https://quay.io/repository/sameersbn/ubuntu)
+[![Circle CI](https://circleci.com/gh/jalospinoso/docker-ubuntu.svg?style=svg)](https://circleci.com/gh/jalospinoso/docker-ubuntu) [![Docker Repository on Quay.io](https://quay.io/repository/jalospinoso/ubuntu/status "Docker Repository on Quay.io")](https://quay.io/repository/jalospinoso/ubuntu)
 
 # About
 
@@ -16,3 +16,5 @@ The image is built on top of the most recently tagged `ubuntu:14.04` image and i
 The packages are selected based on the criteria that they are commonly used and that they do not influence the size of the resulting image too much.
 
 Additionally `apt` is configured to **NOT** install `recommended` and `suggested` packages.
+
+Forked from [sameersbn/docker-ubuntu](https://github.com/sameersbn/docker-ubuntu)].
