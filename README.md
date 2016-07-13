@@ -1,4 +1,4 @@
-[![Circle CI](https://circleci.com/gh/jlospinoso/docker-ubuntu.svg?style=svg)](https://circleci.com/gh/jlospinoso/docker-ubuntu) [![Docker Repository on Quay.io](https://quay.io/repository/jlospinoso/ubuntu/status "Docker Repository on Quay.io")](https://quay.io/repository/jlospinoso/ubuntu)
+[![Circle CI](https://circleci.com/gh/JLospinoso/docker-ubuntu.svg?style=svg)](https://circleci.com/gh/JLospinoso/docker-ubuntu) [![Docker Repository on Quay.io](https://quay.io/repository/jlospinoso/ubuntu/status "Docker Repository on Quay.io")](https://quay.io/repository/jlospinoso/ubuntu)
 
 # About
 
@@ -17,4 +17,4 @@ The packages are selected based on the criteria that they are commonly used and 
 
 Additionally `apt` is configured to **NOT** install `recommended` and `suggested` packages.
 
-Forked from [sameersbn/docker-ubuntu](https://github.com/sameersbn/docker-ubuntu)].
+Forked from [sameersbn/docker-ubuntu](https://github.com/sameersbn/docker-ubuntu).
